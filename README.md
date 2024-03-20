@@ -1,4 +1,4 @@
-<img width="823" alt="구성도" src="https://github.com/Mingmin99/k8s-onprem-3tier_InfraSystem/assets/114326128/49acf38c-a3f3-4b70-8fe7-00d8eb64c6b1"># k8s-onprem-3tier_InfraSystem
+
 <img src="readme_src/ppt_title.png"/>
 
 ## 프로젝트 배경
