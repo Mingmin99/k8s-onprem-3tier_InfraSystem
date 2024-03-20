@@ -26,6 +26,10 @@
 <img src="readme_src/Architecture.png"/>
 
 
+## 🖥️ 장비목록
+<img src="readme_src/device.png"/>
+
+
 ## 🪡 주요 변경 사항 및 고려 사항
 
 - 현재 온프레미스 환경에서 WEB 서비스용 머신과 WAS 서비스용 머신을 별도로 운영 중
