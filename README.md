@@ -1,4 +1,4 @@
-# k8s-onprem-3tier_InfraSystem
+<img width="823" alt="구성도" src="https://github.com/Mingmin99/k8s-onprem-3tier_InfraSystem/assets/114326128/49acf38c-a3f3-4b70-8fe7-00d8eb64c6b1"># k8s-onprem-3tier_InfraSystem
 <img src="readme_src/ppt_title.png"/>
 
 ## 프로젝트 배경
@@ -17,7 +17,7 @@
 <img src="readme_src/ppt_sinario.png"/>
 
 ## 구성도
-<img src="readme_src/구성도.svg"/>
+<img src="readme_src/구성도.png"/>
 
 ## 주요 변경 사항 및 고려 사항
 
