@@ -19,7 +19,7 @@
 <img src="readme_src/ppt_sinario.png"/>
 
 ## 👁️ 구성도
-<img src="readme_src/구성도.png"/>
+<img src="readme_src/Architecture.png"/>
 
 ## 주요 변경 사항 및 고려 사항
 
