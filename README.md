@@ -74,7 +74,7 @@
 
 | 구분 | 내용 | 비고 |
 | --- | --- | --- |
-| 이름 | 최민영 | <img src="readme_src/증명사진.jpg" width="100"/>  |
+| 이름 | 최민영 | <img src="readme_src/myphoto.png" width="100"/>  |
 | 연락처 | alsdud11737@naver.com |  |
 | 학력 사항 | 동국대학교 법학과 전공, 경제학과 복수 전공 | 2024.02 졸업 |
 | Frontend skill | HTML, CSS, Javascript |  |
